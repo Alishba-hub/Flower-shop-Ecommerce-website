@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "name":"Blooming Bliss",
+        "price": 200,
+        "image":"imagesforjsonfile/sunflower.avif"
+    },
+    {
+        "id":2,
+        "name":"Spring Splender",
+        "price": 350,
+        "image":"imagesforjsonfile/prod11.avif"
+    },
+    {
+        "id":3,
+        "name":"charming Carnation",
+        "price": 150,
+        "image":"imagesforjsonfile/prod3.avif"
+    },
+    {
+        "id":4,
+        "name":"Vibrant Bloss",
+        "price": 400,
+        "image":"imagesforjsonfile/prod8.avif"
+    },
+    {
+        "id":5,
+        "name":"Heavenly Hydrangeas",
+        "price": 100,
+        "image":"imagesforjsonfile/prod5.avif"
+    },
+    {
+        "id":6,
+        "name":"Peacefull Peonies",
+        "price": 450,
+        "image":"imagesforjsonfile/prod6.avif"
+    },
+    {
+        "id":7,
+        "name":"Sunny SunFowers",
+        "price": 375,
+        "image":"imagesforjsonfile/prod7.avif"
+    },{
+        "id":8,
+        "name":"Mystical Roses",
+        "price": 800,
+        "image":"imagesforjsonfile/prod4.avif"
+    },
+    {
+        "id":9,
+        "name":"Elegant Liss",
+        "price": 550,
+        "image":"imagesforjsonfile/prod9.avif"
+    },
+    {
+        "id":10,
+        "name":"Spring Splash",
+        "price": 500,
+        "image":"imagesforjsonfile/prod10.avif"
+    },
+    {
+        "id":11,
+        "name":"Delicate Dais",
+        "price": 450,
+        "image":"imagesforjsonfile/prod11.avif"
+    },
+    {
+        "id":12,
+        "name":"Splendid Joys",
+        "price": 600,
+        "image":"imagesforjsonfile/prod12.avif"
+    }
+]
